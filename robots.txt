@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://cosmic-shortbread-9b5a5e.netlify.app/sitemap.xml
